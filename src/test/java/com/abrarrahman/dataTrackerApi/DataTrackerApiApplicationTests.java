@@ -1,4 +1,4 @@
-package com.abrarrahman.data_tracker_api;
+package com.abrarrahman.dataTrackerApi;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

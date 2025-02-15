@@ -1,4 +1,4 @@
-package com.abrarrahman.data_tracker_api;
+package com.abrarrahman.dataTrackerApi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
